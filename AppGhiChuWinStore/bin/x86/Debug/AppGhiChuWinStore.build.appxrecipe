@@ -1,0 +1,188 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="4.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <PropertyGroup>
+    <Machine>PC</Machine>
+    <WindowsUser>duythanh</WindowsUser>
+    <TargetPlatformIdentifier>Windows</TargetPlatformIdentifier>
+    <SolutionConfiguration>Debug|x86</SolutionConfiguration>
+    <PackageArchitecture>x86</PackageArchitecture>
+    <PackageIdentityName>63bb2c93-8b61-4fd5-8e09-e9c085e28d5e</PackageIdentityName>
+    <IntermediateOutputPath>C:\Users\duythanh\Documents\Visual Studio 2013\Projects\AppGhiChuWinStore\AppGhiChuWinStore\obj\x86\Debug\</IntermediateOutputPath>
+  </PropertyGroup>
+  <ItemGroup>
+    <AppXManifest Include="C:\Users\duythanh\Documents\Visual Studio 2013\Projects\AppGhiChuWinStore\AppGhiChuWinStore\bin\x86\Debug\AppxManifest.xml">
+      <PackagePath>AppxManifest.xml</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+    </AppXManifest>
+  </ItemGroup>
+  <ItemGroup>
+    <AppxPackagedFile Include="C:\Users\duythanh\Documents\Visual Studio 2013\Projects\AppGhiChuWinStore\AppGhiChuWinStore\bin\x86\Debug\AppGhiChuWinStore.exe">
+      <PackagePath>AppGhiChuWinStore.exe</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\duythanh\Documents\Visual Studio 2013\Projects\AppGhiChuWinStore\packages\Facebook.7.0.6\lib\win8\Facebook.dll">
+      <PackagePath>Facebook.dll</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\duythanh\Documents\Visual Studio 2013\Projects\AppGhiChuWinStore\packages\Parse.1.5.2\lib\netcore45\Parse.dll">
+      <PackagePath>Parse.dll</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\duythanh\Documents\Visual Studio 2013\Projects\AppGhiChuWinStore\packages\Parse.1.5.2\lib\netcore45\Parse.WinRT.dll">
+      <PackagePath>Parse.WinRT.dll</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Program Files %28x86%29\Microsoft SDKs\Windows\v8.1\ExtensionSDKs\SQLite.WinRT81\3.8.10.2\Redist\Debug\x86\sqlite3.dll">
+      <PackagePath>sqlite3.dll</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\duythanh\Documents\Visual Studio 2013\Projects\AppGhiChuWinStore\AppGhiChuWinStore\Assets\Add-New.png">
+      <PackagePath>Assets\Add-New.png</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\duythanh\Documents\Visual Studio 2013\Projects\AppGhiChuWinStore\AppGhiChuWinStore\Assets\Add-New1.png">
+      <PackagePath>Assets\Add-New1.png</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\duythanh\Documents\Visual Studio 2013\Projects\AppGhiChuWinStore\AppGhiChuWinStore\Assets\Arrowhead-Left.png">
+      <PackagePath>Assets\Arrowhead-Left.png</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\duythanh\Documents\Visual Studio 2013\Projects\AppGhiChuWinStore\AppGhiChuWinStore\Assets\Arrowhead-Left1.png">
+      <PackagePath>Assets\Arrowhead-Left1.png</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\duythanh\Documents\Visual Studio 2013\Projects\AppGhiChuWinStore\AppGhiChuWinStore\Assets\Arrowhead-Right.png">
+      <PackagePath>Assets\Arrowhead-Right.png</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\duythanh\Documents\Visual Studio 2013\Projects\AppGhiChuWinStore\AppGhiChuWinStore\Assets\Arrowhead-Right1.png">
+      <PackagePath>Assets\Arrowhead-Right1.png</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\duythanh\Documents\Visual Studio 2013\Projects\AppGhiChuWinStore\AppGhiChuWinStore\Assets\Business-Card-01.png">
+      <PackagePath>Assets\Business-Card-01.png</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\duythanh\Documents\Visual Studio 2013\Projects\AppGhiChuWinStore\AppGhiChuWinStore\Assets\Business-Card-011.png">
+      <PackagePath>Assets\Business-Card-011.png</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\duythanh\Documents\Visual Studio 2013\Projects\AppGhiChuWinStore\AppGhiChuWinStore\Assets\Data-Synchronize.png">
+      <PackagePath>Assets\Data-Synchronize.png</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\duythanh\Documents\Visual Studio 2013\Projects\AppGhiChuWinStore\AppGhiChuWinStore\Assets\Data-Synchronize1.png">
+      <PackagePath>Assets\Data-Synchronize1.png</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\duythanh\Documents\Visual Studio 2013\Projects\AppGhiChuWinStore\AppGhiChuWinStore\Assets\Download.png">
+      <PackagePath>Assets\Download.png</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\duythanh\Documents\Visual Studio 2013\Projects\AppGhiChuWinStore\AppGhiChuWinStore\Assets\fb_icon_325x325.png">
+      <PackagePath>Assets\fb_icon_325x325.png</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\duythanh\Documents\Visual Studio 2013\Projects\AppGhiChuWinStore\AppGhiChuWinStore\Assets\Item-53e88f6f-42e4-4d2c-ab41-a8d568894434.png">
+      <PackagePath>Assets\Item-53e88f6f-42e4-4d2c-ab41-a8d568894434.png</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\duythanh\Documents\Visual Studio 2013\Projects\AppGhiChuWinStore\AppGhiChuWinStore\Assets\location.png">
+      <PackagePath>Assets\location.png</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\duythanh\Documents\Visual Studio 2013\Projects\AppGhiChuWinStore\AppGhiChuWinStore\Assets\Logo.scale-100.png">
+      <PackagePath>Assets\Logo.scale-100.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\duythanh\Documents\Visual Studio 2013\Projects\AppGhiChuWinStore\AppGhiChuWinStore\Assets\logoicon310x150.scale-100.png">
+      <PackagePath>Assets\logoicon310x150.scale-100.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\duythanh\Documents\Visual Studio 2013\Projects\AppGhiChuWinStore\AppGhiChuWinStore\Assets\logoicon310x310.scale-100.png">
+      <PackagePath>Assets\logoicon310x310.scale-100.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\duythanh\Documents\Visual Studio 2013\Projects\AppGhiChuWinStore\AppGhiChuWinStore\Assets\logoicon70x70.scale-100.png">
+      <PackagePath>Assets\logoicon70x70.scale-100.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\duythanh\Documents\Visual Studio 2013\Projects\AppGhiChuWinStore\AppGhiChuWinStore\Assets\noteicon.png">
+      <PackagePath>Assets\noteicon.png</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\duythanh\Documents\Visual Studio 2013\Projects\AppGhiChuWinStore\AppGhiChuWinStore\Assets\phoneicon.png">
+      <PackagePath>Assets\phoneicon.png</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\duythanh\Documents\Visual Studio 2013\Projects\AppGhiChuWinStore\AppGhiChuWinStore\Assets\Reminder-Window.png">
+      <PackagePath>Assets\Reminder-Window.png</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\duythanh\Documents\Visual Studio 2013\Projects\AppGhiChuWinStore\AppGhiChuWinStore\Assets\Save.png">
+      <PackagePath>Assets\Save.png</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\duythanh\Documents\Visual Studio 2013\Projects\AppGhiChuWinStore\AppGhiChuWinStore\Assets\Save1.png">
+      <PackagePath>Assets\Save1.png</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\duythanh\Documents\Visual Studio 2013\Projects\AppGhiChuWinStore\AppGhiChuWinStore\Assets\SmallLogo.scale-100.png">
+      <PackagePath>Assets\SmallLogo.scale-100.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\duythanh\Documents\Visual Studio 2013\Projects\AppGhiChuWinStore\AppGhiChuWinStore\Assets\SplashScreen.scale-100.png">
+      <PackagePath>Assets\SplashScreen.scale-100.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\duythanh\Documents\Visual Studio 2013\Projects\AppGhiChuWinStore\AppGhiChuWinStore\Assets\StoreLogo.scale-100.png">
+      <PackagePath>Assets\StoreLogo.scale-100.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\duythanh\Documents\Visual Studio 2013\Projects\AppGhiChuWinStore\AppGhiChuWinStore\Assets\Trash can.png">
+      <PackagePath>Assets\Trash can.png</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\duythanh\Documents\Visual Studio 2013\Projects\AppGhiChuWinStore\AppGhiChuWinStore\Assets\Trash can1.png">
+      <PackagePath>Assets\Trash can1.png</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\duythanh\Documents\Visual Studio 2013\Projects\AppGhiChuWinStore\AppGhiChuWinStore\Assets\User-Monitor.png">
+      <PackagePath>Assets\User-Monitor.png</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\duythanh\Documents\Visual Studio 2013\Projects\AppGhiChuWinStore\AppGhiChuWinStore\DataModel\SampleData.json">
+      <PackagePath>DataModel\SampleData.json</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\duythanh\Documents\Visual Studio 2013\Projects\AppGhiChuWinStore\AppGhiChuWinStore\bin\x86\Debug\App.xbf">
+      <PackagePath>App.xbf</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\duythanh\Documents\Visual Studio 2013\Projects\AppGhiChuWinStore\AppGhiChuWinStore\bin\x86\Debug\GioiThieuPage.xbf">
+      <PackagePath>GioiThieuPage.xbf</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\duythanh\Documents\Visual Studio 2013\Projects\AppGhiChuWinStore\AppGhiChuWinStore\bin\x86\Debug\HubPage.xbf">
+      <PackagePath>HubPage.xbf</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\duythanh\Documents\Visual Studio 2013\Projects\AppGhiChuWinStore\AppGhiChuWinStore\bin\x86\Debug\SectionPage.xbf">
+      <PackagePath>SectionPage.xbf</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\duythanh\Documents\Visual Studio 2013\Projects\AppGhiChuWinStore\AppGhiChuWinStore\bin\x86\Debug\ItemPage.xbf">
+      <PackagePath>ItemPage.xbf</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\duythanh\Documents\Visual Studio 2013\Projects\AppGhiChuWinStore\AppGhiChuWinStore\bin\x86\Debug\View\AddPage.xbf">
+      <PackagePath>View\AddPage.xbf</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\duythanh\Documents\Visual Studio 2013\Projects\AppGhiChuWinStore\AppGhiChuWinStore\bin\x86\Debug\View\DetailPage.xbf">
+      <PackagePath>View\DetailPage.xbf</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\duythanh\Documents\Visual Studio 2013\Projects\AppGhiChuWinStore\AppGhiChuWinStore\bin\x86\Debug\View\SyncPage.xbf">
+      <PackagePath>View\SyncPage.xbf</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\duythanh\Documents\Visual Studio 2013\Projects\AppGhiChuWinStore\AppGhiChuWinStore\bin\x86\Debug\AppGhiChuWinStore.xr.xml">
+      <PackagePath>AppGhiChuWinStore.xr.xml</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\duythanh\Documents\Visual Studio 2013\Projects\AppGhiChuWinStore\AppGhiChuWinStore\bin\x86\Debug\resources.pri">
+      <PackagePath>resources.pri</PackagePath>
+    </AppxPackagedFile>
+  </ItemGroup>
+  <ItemGroup>
+    <ResolvedSDKReference Include="C:\Program Files %28x86%29\Microsoft SDKs\Windows\v8.1\ExtensionSDKs\Microsoft.VCLibs\12.0\">
+      <Name>Microsoft.VCLibs.120.00.Debug</Name>
+      <Version>12.0.21005.1</Version>
+      <Architecture>ARM</Architecture>
+      <FrameworkIdentity>Name = Microsoft.VCLibs.120.00.Debug, MinVersion = 12.0.21005.1</FrameworkIdentity>
+      <AppxLocation>C:\Program Files %28x86%29\Microsoft SDKs\Windows\v8.1\ExtensionSDKs\Microsoft.VCLibs\12.0\.\AppX\Debug\ARM\Microsoft.VCLibs.ARM.Debug.12.00.appx</AppxLocation>
+      <MoreInfo></MoreInfo>
+    </ResolvedSDKReference>
+    <ResolvedSDKReference Include="C:\Program Files %28x86%29\Microsoft SDKs\Windows\v8.1\ExtensionSDKs\Microsoft.VCLibs\12.0\">
+      <Name>Microsoft.VCLibs.120.00.Debug</Name>
+      <Version>12.0.21005.1</Version>
+      <Architecture>x64</Architecture>
+      <FrameworkIdentity>Name = Microsoft.VCLibs.120.00.Debug, MinVersion = 12.0.21005.1</FrameworkIdentity>
+      <AppxLocation>C:\Program Files %28x86%29\Microsoft SDKs\Windows\v8.1\ExtensionSDKs\Microsoft.VCLibs\12.0\.\AppX\Debug\x64\Microsoft.VCLibs.x64.Debug.12.00.appx</AppxLocation>
+      <MoreInfo></MoreInfo>
+    </ResolvedSDKReference>
+    <ResolvedSDKReference Include="C:\Program Files %28x86%29\Microsoft SDKs\Windows\v8.1\ExtensionSDKs\Microsoft.VCLibs\12.0\">
+      <Name>Microsoft.VCLibs.120.00.Debug</Name>
+      <Version>12.0.21005.1</Version>
+      <Architecture>x86</Architecture>
+      <FrameworkIdentity>Name = Microsoft.VCLibs.120.00.Debug, MinVersion = 12.0.21005.1</FrameworkIdentity>
+      <AppxLocation>C:\Program Files %28x86%29\Microsoft SDKs\Windows\v8.1\ExtensionSDKs\Microsoft.VCLibs\12.0\.\AppX\Debug\x86\Microsoft.VCLibs.x86.Debug.12.00.appx</AppxLocation>
+      <MoreInfo></MoreInfo>
+    </ResolvedSDKReference>
+  </ItemGroup>
+</Project>

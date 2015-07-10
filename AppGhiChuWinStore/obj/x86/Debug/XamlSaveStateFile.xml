@@ -1,0 +1,9 @@
+<XamlCompilerSaveState>
+  <ReferenceAssemblyList>
+    <LocalAssembly PathName="c:\users\duythanh\documents\visual studio 2013\projects\appghichuwinstore\appghichuwinstore\obj\x86\debug\intermediatexaml\appghichuwinstore.exe" HashGuid="5dd51f56-cd1d-da57-d641-cb90ffc41456" />
+    <ReferenceAssembly PathName="c:\program files (x86)\microsoft sdks\windows\v8.1\extensionsdks\microsoft.vclibs\12.0\references\commonconfiguration\neutral\platform.winmd" HashGuid="58b6b6d1-928e-9908-9804-eb460e5e101b" />
+    <ReferenceAssembly PathName="c:\users\duythanh\documents\visual studio 2013\projects\appghichuwinstore\packages\facebook.7.0.6\lib\win8\facebook.dll" HashGuid="23eccd29-12df-80be-f405-8f7031c14b2c" />
+    <ReferenceAssembly PathName="c:\users\duythanh\documents\visual studio 2013\projects\appghichuwinstore\packages\parse.1.5.2\lib\netcore45\parse.dll" HashGuid="d77fb4c6-add8-0156-ec8d-b78d65bcd152" />
+    <ReferenceAssembly PathName="c:\users\duythanh\documents\visual studio 2013\projects\appghichuwinstore\packages\parse.1.5.2\lib\netcore45\parse.winrt.dll" HashGuid="68612b73-3d50-00cb-7b39-e9f1b6c25fe9" />
+  </ReferenceAssemblyList>
+</XamlCompilerSaveState>
